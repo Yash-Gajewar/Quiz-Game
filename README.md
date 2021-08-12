@@ -1,4 +1,4 @@
-# Quiz-Game
+# Quiz-Game Using C++
               
 	         This software is exclusively designed for schools, colleges and universities for conducting secured quizes on a regular basis with ease.    
 	         This software is mainly focused on teachers and students for performing quizes    
