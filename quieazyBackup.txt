@@ -1,0 +1,58 @@
+Name of teacher: Sonal gupta
+Name of subject1: object oriented programming
+Subject code: 22319
+Logged in but not created quiz
+Name of teacher: sonal gupta
+Name of subject1: object oriented programming
+Subject code: 22319
+sonal gupta created object oriented programming quiz successfully
+Student name: yash 06
+Student roll: 19203B0060
+yash 06 final result: 10
+Student name: shweta 30
+Student roll: 1920
+shweta 30 Logged in but not submitted the quiz
+Student name: shweta 30
+Student roll: 19203B0060
+shweta 30 Entered wrong game pin
+Student name: rohit 45
+Student roll: 19203B0045
+rohit 45 final result: 0
+Name of teacher: sonal gupta
+Name of subject1: object oriented programming
+Subject code: 22319
+Logged in but not created quiz
+Name of teacher: sonal gupta
+Name of subject1: object oriented programming
+Subject code: 22319
+sonal gupta created object oriented programming quiz successfully
+Student name: yash 06
+Student roll: 19203B0060
+yash 06 final result: 10
+Student name: shweta 
+Student roll: 19203B0090
+shweta  Logged in but not submitted the quiz
+Name of teacher: sonal gupta
+Name of subject1: object oriented programming
+Subject code: 22319
+sonal gupta created object oriented programming quiz successfully
+Student name: yash 06
+Student roll: 19203B0060
+yash 06 final result: 20
+Student name: rohit 45
+Student roll: 19203B0045
+rohit 45 Entered wrong game pin
+Student name: rajesh p
+Student roll: 33
+rajesh p Logged in but not submitted the quiz
+Name of teacher: Sonal Gupta
+Name of subject1: 22415
+Subject code: 0
+Logged in but not created quiz
+Name of teacher: Sonal Gupta
+Name of subject1: object oriented programming
+Subject code: 22415
+Sonal Gupta created object oriented programming quiz successfully
+Student name: yash
+Student roll: 19203B0060
+yash final result: 3
